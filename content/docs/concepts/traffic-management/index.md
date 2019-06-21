@@ -136,7 +136,7 @@ FQDN using the DNS service present in the underlying platform (`kube-dns`,
 
 ### Ingress and egress
 
-Istio assumes that all traffic entering and leaving the service mesh
+Istio assumes that all trafsdadsfic entering and leaving the service mesh
 transits through Envoy proxies. By deploying an Envoy proxy in front of
 services, you can conduct A/B testing, deploy canary services,
 etc. for user-facing services. Similarly, by routing traffic to external
