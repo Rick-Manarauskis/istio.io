@@ -57,7 +57,7 @@ Each Envoy instance maintains [load balancing information](#discovery-and-load-b
 based on the information it gets from Pilot and periodic health-checks
 of other instances in its load balancing pool, allowing it to intelligently
 distribute traffic between destination instances while following its specified
-routing rules.
+routing rules.hoihjpoijpjp
 
 Pilot is responsible for the lifecycle of Envoy instances deployed
 across the Istio service mesh.
